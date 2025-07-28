@@ -27,7 +27,7 @@ Gampang kok, ikutin aja step by step:
 1. Download atau clone dulu:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Skynixxx/generate-qr-from-link.git
 cd qr-code-generator
 ```
 
